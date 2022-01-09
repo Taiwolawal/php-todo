@@ -77,7 +77,7 @@ pipeline {
                     ]
                  }""" 
 
-                 server.upload spec: uploadSpec
+          server.upload spec: uploadSpec
         }
       }
   
